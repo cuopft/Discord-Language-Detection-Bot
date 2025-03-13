@@ -11,7 +11,7 @@ services:
     command: python app/main.py
 
 secrets:
-  discord_token:
+  discord_toke:
     file: discord_token.txt
 
 
